@@ -1,3 +1,7 @@
 jdgjsgfsgdkjdsgfkjs
 Jhfhjdf
+<<<<<<< HEAD
 master
+=======
+ysf
+>>>>>>> ysf
